@@ -7,8 +7,14 @@ HTML, CSS, JavaScript, PHP
 Tensorflow, Keras  
 
 ## Education
-碩士 - 國立台灣師範大學 光電工程研究所  
-大學 - 南台科技大學 電子工程系  
+* 碩士  
+  國立台灣師範大學 光電工程研究所  
+  * 活動: OPTIC2019, IP2020
+  * 負責維護實驗室網站 [IOPLab](https://ioplab.ieo.ntnu.edu.tw/ioplab/en/index.php)
+
+* 大學  
+  南台科技大學 電子工程系  
+  * 社團 擔任保齡球社社長
 
 
 
