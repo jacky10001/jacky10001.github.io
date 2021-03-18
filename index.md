@@ -1,21 +1,36 @@
 ## Welcome to GitHub Pages
 
 
-## Skill
+# Skill
+## 程式開發
 Python, C, C#  
 HTML, CSS, JavaScript, PHP  
 Tensorflow, Keras  
+Arduino, Rasberry Pi  
 
-## Education
-* 碩士  
+## 開發工具 / 軟體  
+* PyCharm  
+* Visual Studio  
+* Visual Studio Code  
+* git (GitHub)  
+
+---
+
+# Education
+## 碩士  
   國立台灣師範大學 光電工程研究所  
-  * 活動: OPTIC2019, IP2020
+  * 研討會:  
+    * 資訊光電研討會 IP2020  
+    * 光學年會 OPTIC2019  
   * 負責維護實驗室網站 [IOPLab](https://ioplab.ieo.ntnu.edu.tw/ioplab/en/index.php)
 
-* 大學  
+## 大學  
   南台科技大學 電子工程系  
-  * 社團 擔任保齡球社社長
-
+  * 社團 擔任保齡球社社長  
+  * 專題作品：  
+    * 環境品質偵測器  
+      利用 Arduino 搭配感測器來測得溫度、濕度、風速還有PM2.5並上傳雲端主機建立資料庫，並以網頁及手機APP來瀏覽。
+    * 
 
 
 <!--
@@ -56,4 +71,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
---!>
+-->
