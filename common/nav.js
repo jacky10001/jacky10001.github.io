@@ -9,11 +9,12 @@ document.write( '            <li class=\"nav-item active\">\n' );
 document.write( '                <a class=\"nav-link\" href=\"index.html\">Home <span class=\"sr-only\">(current)</span></a>\n' );
 document.write( '            </li>\n' );
 document.write( '            <li class=\"nav-item\">\n' );
-document.write( '                <a class=\"nav-link\" href=\"about.html\">Skills</a>\n' );
+document.write( '                <a class=\"nav-link\" href=\"about.html\">About</a>\n' );
 document.write( '            </li>\n' );
 document.write( '            <li class=\"nav-item\">\n' );
-document.write( '                <a class=\"nav-link\" href=\"about.html\">About</a>\n' );
+document.write( '                <a class=\"nav-link\" href=\"work.html\">Work</a>\n' );
 document.write( '            </li>\n' );
 document.write( '        </ul>\n' );
 document.write( '    </div>\n' );
 document.write( '</nav>' );
+
