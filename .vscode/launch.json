@@ -13,7 +13,7 @@
             "type": "browser-preview",
             "request": "launch",
             "name": "Browser Preview: Launch",
-            "url": "file:///D:/YJ/bb/index.html"
+            "url": "file:///D:/YJ/MyRepo/jacky10001.github.io/index.html"
         }
     ]
 }
